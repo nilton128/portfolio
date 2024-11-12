@@ -42,7 +42,7 @@ Profissional experiente em **DevOps**, **Computação em Nuvem** e **Segurança 
 ### Analista de Sistemas de TI - Novo Nordisk (Maio 2023 - Presente)
 - Gerenciamento de incidentes e controle de alterações via ServiceNow para ambientes de TI.
 - Administração de backup e restauração com VEEAM Backup & Replication.
-- Suporte a infraestrutura com **Zabbix** e **Grafana**, e administração de servidores locais e em nuvem.
+- Suporte a infraestrutura com Zabbix e Grafana, e administração de servidores locais e em nuvem.
 
 ### Analista de Infraestrutura - Anext (Setembro 2022 - Maio 2023)
 - Implementação e gerenciamento de ambientes de nuvem multi-cloud (AWS, Azure, GCP, OCI).
