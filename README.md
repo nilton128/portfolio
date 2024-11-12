@@ -1,5 +1,11 @@
 # Nilton Rodrigues Pereira
 
+<style>
+  p, ul, li {
+    text-align: justify;
+  }
+</style>
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/niltonrodriguespereira/)
 
 Profissional experiente em **DevOps**, **Computação em Nuvem** e **Segurança da Informação**, com ampla atuação em administração de sistemas, automação e otimização de infraestrutura de TI. Possuo certificações relevantes, que comprovam meu comprometimento com as melhores práticas da área.
