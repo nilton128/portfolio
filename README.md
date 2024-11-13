@@ -38,9 +38,16 @@ Profissional experiente em **DevOps**, **Computação em Nuvem** e **Segurança 
 ---
 
 ## 💼 Experiência Profissional
+### DevOps – Anext (Agosto 2024 até o presente momento)
+-	Kubernetes, especialmente com EKS, AKS e OKE;
+-	Repositórios GIT, pipelines YAML no Azure DevOps;
+-	Gestão em ambientes cloud AWS, Azure, Oracle OCI;
+-	Provisão de infraestrutura como código (IaC) com Terraform;
+-	Configuração de observabilidade com ferramentas como DataDog, Prometheus e Graylog;
+-	Participação em projetos de transformação digital (re-platform) e soluções de incidentes.
 
-### Analista de Sistemas de TI - Novo Nordisk (Maio 2023 - Presente)
-- Gerenciamento de incidentes e controle de alterações via ServiceNow para ambientes de TI.
+### Analista de Sistemas de TI - Novo Nordisk (Maio 2023 - Julho 2024)
+ -Gerenciamento de incidentes e controle de alterações via ServiceNow para ambientes de TI.
 - Administração de backup e restauração com VEEAM Backup & Replication.
 - Suporte a infraestrutura com Zabbix e Grafana, e administração de servidores locais e em nuvem.
 
